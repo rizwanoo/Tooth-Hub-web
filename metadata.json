@@ -1,0 +1,6 @@
+{
+  "name": "Tooth Hub | Speciality Dental Centre",
+  "description": "Official website for Tooth Hub Speciality Dental Centre in Busaiteen – Al Sayah, Muharraq, Kingdom of Bahrain. Precision dental care and cosmetic transformations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
